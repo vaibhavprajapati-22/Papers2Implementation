@@ -33,7 +33,7 @@ To examine the convnet, a deconvnet is attached to it each layer. It includes th
   2. Get in correct directory :
      <pre>
       <code class="python">
-        cd Fast-Neural-Style-Transfer
+        cd Papers2Implementation
         cd Visualizing and Understanding Convolutional Networks
       </code>
      </pre>
