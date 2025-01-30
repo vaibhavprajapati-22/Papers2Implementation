@@ -27,7 +27,7 @@ To examine the convnet, a deconvnet is attached to it each layer. It includes th
   1. Clone the repository :
     <pre>
     <code class="python">
-    git clone [https://github.com/vaibhavprajapati-22/Fast-Neural-Style-Transfer](https://github.com/vaibhavprajapati-22/Papers2Implementation.git)
+    git clone https://github.com/vaibhavprajapati-22/Papers2Implementation.git
     </code>
     </pre>
   2. Get in correct directory :
