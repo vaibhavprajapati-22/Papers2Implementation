@@ -23,6 +23,27 @@ To examine the convnet, a deconvnet is attached to it each layer. It includes th
  ![image](https://github.com/user-attachments/assets/3067d268-c255-45be-8d9e-8faeff330978)
  ![image](https://github.com/user-attachments/assets/0aaee449-f154-4d2e-86d9-762692f7ec64)
 
+## How To Run :gun:
+  1. Clone the repository :
+    <pre>
+    <code class="python">
+    git clone [https://github.com/vaibhavprajapati-22/Fast-Neural-Style-Transfer](https://github.com/vaibhavprajapati-22/Papers2Implementation.git)
+    </code>
+    </pre>
+  2. Get in correct directory :
+     <pre>
+      <code class="python">
+        cd Fast-Neural-Style-Transfer
+        cd Visualizing and Understanding Convolutional Networks
+      </code>
+     </pre>
+  3. Run main script
+     <pre>
+      <code class="python">
+        python main.py
+      </code>
+     </pre>
+
 ## References :
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901).
 
